@@ -1,8 +1,0 @@
-{
-  "deployments" : [ {
-    "moduleId" : "test-1.0.0",
-    "application" : "test-application",
-    "comment" : "",
-    "deployedAt" : 1664882417.002181000
-  } ]
-}
