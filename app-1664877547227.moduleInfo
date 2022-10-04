@@ -1,8 +1,3 @@
 {
-  "deployments" : [ {
-    "moduleId" : "test-module-1.0.0-local",
-    "application" : "app-1664877547227",
-    "comment" : "comment1",
-    "deployedAt" : 1664877547.231050000
-  } ]
+  "deployments" : [ ]
 }
